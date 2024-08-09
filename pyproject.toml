@@ -21,7 +21,7 @@ psutil = "^5.8.0"
 opencv-python-headless = "^4.5.3.56"
 
 [tool.poetry.dev-dependencies]
-black = "^20.8b1"
+black = "^24.3"
 pyinstaller = [{ version="^4.5.1", platform="darwin" }]
 
 [tool.poetry.scripts]
