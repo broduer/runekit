@@ -22,7 +22,7 @@ opencv-python-headless = "^4.5.3.56"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
-pyinstaller = [{ version="^4.5.1", platform="darwin" }]
+pyinstaller = [{ version="^5.13.1", platform="darwin" }]
 
 [tool.poetry.scripts]
 runekit = 'runekit.main:main'
